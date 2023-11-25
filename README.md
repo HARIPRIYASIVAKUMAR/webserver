@@ -57,9 +57,11 @@ print("This is my webserver")
 server_address =('',80)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
+```
 
 ## OUTPUT:
-![Uploading Screenshot (8).png…]()
+![Screenshot (4)](https://github.com/HARIPRIYASIVAKUMAR/webserver/assets/147477684/12d3bdeb-474d-4233-87ee-56da98062b00)
+
 
 
 ## RESULT:
